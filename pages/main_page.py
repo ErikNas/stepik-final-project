@@ -1,0 +1,2 @@
+class MainPage(object):
+    pass
